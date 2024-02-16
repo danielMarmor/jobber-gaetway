@@ -9,6 +9,6 @@ class Application {
     }
 }
 
-debugger;
+
 const application: Application = new Application();
 application.initialize();
